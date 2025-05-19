@@ -1,0 +1,14 @@
+# Ignore Python/venv clutter
+venv/
+__pycache__/
+*.pyc
+
+# Ignore data
+data/
+*.csv
+
+# Ignore VS Code
+.vscode/
+
+# Ignore system files
+.DS_Store
