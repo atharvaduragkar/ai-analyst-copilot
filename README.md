@@ -54,12 +54,6 @@ An intelligent data analysis assistant built with GPT-4 (or 3.5), Streamlit, and
 
 ---
 
-## 🔗 Demo Preview (Optional)
-
-> Screenshots or Loom link here
-
----
-
 ## 🚀 Future Enhancements
 
 - Multi-table joins
